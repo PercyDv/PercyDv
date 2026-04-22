@@ -19,8 +19,14 @@
         📚 Constantly learning new technologies
       </p>
     </td>
-    <td width="60%" align="center">
-      <img width="400" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviAmaral&langs_count=8&layout=compact&theme=radical&title_color=00D4FF&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=10" alt="Top Languages" />
-    </td>
   </tr>
 </table>
+<div align="center">
+   <h3> Most used Languages</h3>
+  <table border="0" cellpadding="10">
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /></td>
+    </tr>
+  </table>
+</div>
