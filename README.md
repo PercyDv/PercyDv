@@ -20,7 +20,7 @@
       </p>
     </td>
     <td width="60%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviAmaral&layout=compact&theme=radical&title_color=00D4FF&text_color=ffffff&bg_color=0d1117&hide_border=true" />
+      <img width="400" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviAmaral&langs_count=8&layout=compact&theme=radical&title_color=00D4FF&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=10" alt="Top Languages" />
     </td>
   </tr>
 </table>
